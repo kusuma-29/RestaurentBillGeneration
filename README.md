@@ -48,26 +48,6 @@ Formatted Output: The bill is printed in a formatted manner, making it easy to r
 
 Output:
  
- Enter your name: John Doe
- All Types Of Biriyani Items!!!!
- Enter 1 for list of items: 1
-
-Chicken Biriyani    rs 250
-Mutton Biriyani    rs 800
-Fish Biriyani          rs 600
-Prawns Biriyani    rs 500
-Veg Biriyani          rs 90
-Boneless Biriyani  rs 190
-Chicken65                    rs 300
-Cooling Water Bottle rs 40
-Dhumsup                     rs 30
-Sprit                             rs 30
-Mountain Due          rs 40
-Mazza                        rs 40
-Merinda                   rs 40
-CocoCola                  rs 30
-Limca                       rs 30
-
 If you want to buy items press 1 or 2 for exit: 1
 Enter item: Chicken Biriyani
 Enter the quantity: 2
