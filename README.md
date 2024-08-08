@@ -60,6 +60,17 @@ Condition Handling: The code handles various conditions like invalid inputs, una
 
 Formatted Output: The bill is printed in a formatted manner, making it easy to read and understand.
 
+# Output
+
+![Screenshot (365)](https://github.com/user-attachments/assets/1d9af09e-bf64-4e08-8da3-f453deeb6373)
+
+![Screenshot (366)](https://github.com/user-attachments/assets/8429674f-55c6-44a1-b0be-4d8416f0f98c)
+
+![Screenshot (367)](https://github.com/user-attachments/assets/0fa58181-3fd5-4836-aa0c-414a34001466)
+
+
+
+
 
 
 
