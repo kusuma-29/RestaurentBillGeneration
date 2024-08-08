@@ -9,7 +9,9 @@ The code is a simple console-based application for a restaurant called "Halal Bi
 # User Input And Menu Display
 
 The code starts by asking the user for their name.
+
 It displays a list of biryani items along with their prices.
+
 The menu is defined as a string and the items are stored in a dictionary with their respective prices.
 
 
